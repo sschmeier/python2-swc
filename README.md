@@ -2,7 +2,7 @@
 
 This is material that I collected from SWC's python2 material at [https://github.com/swcarpentry/python-novice-inflammation-2.7](https://github.com/swcarpentry/python-novice-inflammation-2.7)
 
-I created a this rep so that students can easily clone this, start a jupyter notebook, and are up and running without the overhead ov having all the other files SWC provides in their repo.
+I created a this repo so that students can easily clone this, start a jupyter notebook, and are up and running without the overhead ov having all the other files SWC provides in their repo.
 
 ## Usage
 
@@ -21,5 +21,5 @@ $ cd python2-swc
 $ jupyter notebook
 ```
 
-Click on the `New` bitton and select `Python` under  `Notebook`.
+Click on the `New` button and select `Python` under  `Notebook`. You should be up and running!!!
  
